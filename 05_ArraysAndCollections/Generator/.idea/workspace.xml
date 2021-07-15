@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b06738c3-b063-44b5-a5d0-0d8289aa3a00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/src/Accounts/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/src/Accounts/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/src/Accounts/DepositaryAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/src/Accounts/DepositaryAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06_InheritanceAndPolymorphism/BankAccount/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="ProjectId" id="1aQoIEqb61E08YS9Lylmqx3rMyA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Generator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b06738c3-b063-44b5-a5d0-0d8289aa3a00" name="Default Changelist" comment="" />
+      <created>1586677096903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586677096903</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="946" y="214" width="800" height="729" key="#Intentions" timestamp="1586679119275">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="946" y="214" width="800" height="729" key="#Intentions/67.27.1853.1053@67.27.1853.1053" timestamp="1586679119275" />
+    <state x="1239" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586899233817">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1239" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586899233817" />
+    <state width="881" height="559" key="GridCell.Tab.0.bottom" timestamp="1587171478699">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="559" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1587171478699" />
+    <state width="881" height="559" key="GridCell.Tab.0.center" timestamp="1587171478699">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="559" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1587171478699" />
+    <state width="881" height="559" key="GridCell.Tab.0.left" timestamp="1587171478698">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="559" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1587171478698" />
+    <state width="881" height="559" key="GridCell.Tab.0.right" timestamp="1587171478699">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="881" height="559" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1587171478699" />
+    <state x="96" y="321" key="com.intellij.ide.util.TipDialog" timestamp="1587173077997">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="96" y="321" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587173077997" />
+    <state x="-202" y="148" width="1372" height="547" key="new project wizard" timestamp="1587173142515">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="-202" y="148" width="1372" height="547" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1587173142515" />
+  </component>
+</project>
